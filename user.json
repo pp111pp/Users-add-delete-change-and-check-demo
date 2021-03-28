@@ -1,0 +1,48 @@
+[
+    {
+        "name": "张三",
+        "age": 19,
+        "passward": "123qwe",
+        "email": "123345@qq.com",
+        "hobbies": ["打篮球", "踢足球", "看电影"]
+    },
+    {
+        "name": "李四",
+        "age": 20,
+        "passward": "3425dgh",
+        "email": "152433333@qq.com",
+        "hobbies": ["打篮球", "看电影"]
+    }, {
+        "name": "王五",
+        "age": 33,
+        "passward": "adwodm2223",
+        "email": "1231414345@qq.com",
+        "hobbies": ["看电影", "喝啤酒"]
+    }, {
+        "name": "杨样",
+        "age": 22,
+        "passward": "462123qwe",
+        "email": "123340295@qq.com",
+        "hobbies": ["看手机", "逛淘宝", "睡觉"]
+    }, {
+        "name": "张四",
+        "age": 45,
+        "passward": "123rtfqwe",
+        "email": "123344945@qq.com",
+        "hobbies": ["看电影"]
+    }, {
+        "name": "张无",
+        "age": 21,
+        "passward": "1ee23qwe",
+        "email": "1233w3345@qq.com",
+        "hobbies": ["打篮球", "踢足球"]
+
+    }, {
+        "name": "王三",
+        "age": 22,
+        "passward": "144423qwe",
+        "email": "124443345@qq.com",
+        "hobbies": ["打篮球", "踢足球"]
+    }
+
+]
